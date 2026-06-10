@@ -30,7 +30,12 @@
 
 ↗ &nbsp;I love turning messy raw data into clean, deployable, real-world intelligence
 
-↗ &nbsp;I build across ML Pipelines · Computer Vision · LLMs · RAG · Gen AI · Multi-Agent Systems
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:24243E&height=50&text=ML%20Pipelines%20%C2%B7%20Computer%20Vision%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Gen%20AI%20%C2%B7%20Multi-Agent%20Systems&fontAlign=50&fontAlignY=55&fontSize=16&fontColor=C084FC" alt="skills banner"/>
+
+</div>
 
 ---
 
