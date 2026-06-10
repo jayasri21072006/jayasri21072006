@@ -1,11 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=Jayasri%20T&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Gen%20AI%20Developer%20%C2%B7%20NLP%20%26%20Computer%20Vision&descAlignY=60&descSize=16&descColor=e0e0ff" alt="header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there%2C+I'm+Jayasri+T+%F0%9F%91%8B;AI+%2F+ML+Engineer+%C2%B7+Gen+AI+Developer" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jayasri--t--sri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayasri-t-sri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://jayasri21072006.github.io/aspiring-ai-engineer-portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-jayasri21072006@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayasri21072006@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sri_07_006/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:48CAE4,100:A78BFA&height=160&section=header&animation=twinkling" alt="header"/>
+
+<br/>
+
+[![LinkedIn →](https://img.shields.io/badge/→%20LinkedIn-jayasri--t--sri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayasri-t-sri)
+[![Portfolio →](https://img.shields.io/badge/→%20Portfolio-visit%20site-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://jayasri21072006.github.io/aspiring-ai-engineer-portfolio/)
+[![Email →](https://img.shields.io/badge/→%20email-jayasri21072006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jayasri21072006@gmail.com)
+[![LeetCode →](https://img.shields.io/badge/→%20LeetCode-200%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/sri_07_006/)
+[![HackerRank →](https://img.shields.io/badge/→%20HackerRank-6★%20Python-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+
+<img src="https://komarev.com/ghpvc/?username=jayasri21072006&label=profile+views&color=6C63FF&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -13,20 +20,17 @@
 
 ## 👩‍💻 About Me
 
-```python
-class JayasriT:
-    def __init__(self):
-        self.role       = "Final Year B.Tech – AI & Data Science"
-        self.college    = "Anand Institute of Higher Technology, Chennai"
-        self.cgpa       = 9.35
-        self.location   = "Chengalpet, Tamil Nadu 🇮🇳"
-        self.focus      = ["ML Pipelines", "Computer Vision", "LLM & RAG", "Gen AI Apps"]
-        self.currently  = "Building AI OS — a multi-agent n8n automation platform"
-        self.fun_fact   = "I explain neural nets to myself using food analogies 🍕"
+🎓 Final year B.Tech student in **AI & Data Science** at Anand Institute of Higher Technology, Chennai — CGPA **9.35 / 10**
 
-    def __str__(self):
-        return "Turning data into deployable intelligence, one commit at a time."
-```
+🌍 Based in Chengalpet, Tamil Nadu &nbsp;|&nbsp; 📞 +91 93425 31156
+
+🔭 Currently building an **AI Operating System** — a multi-agent automation platform using n8n & Gemini API
+
+🧠 Passionate about **ML pipelines, Computer Vision, LLMs, RAG architectures & Gen AI apps**
+
+💡 I love turning raw data into deployable, real-world intelligence
+
+⚡ Fun fact — I explain neural nets to myself using food analogies 🍕
 
 ---
 
@@ -36,12 +40,12 @@ class JayasriT:
 
 | 🎖️ Achievement | 📋 Details |
 |---|---|
+| 🎓 **CGPA 9.35 / 10** | Top performer · 5th Semester · AIHT Chennai |
+| 🏅 **Statistella – Data Analytics Competition** | B.A.S.H 8.0 · Unstop · Jan 2026 |
 | 🥇 **SIH 2025 – College Level Selected** | Sentiment Analysis & Word Cloud Visualiser |
-| ⭐ **HackerRank 6-Star Python** | Top Python proficiency badge |
-| 🧠 **LeetCode 200+ Solved** | Consistent DSA problem solver |
-| 🎓 **CGPA 9.35 / 10** | Top performer through 5th Semester |
-| 🤝 **LinkedIn Skill Assessment Passed** | MongoDB · Microsoft PowerPoint |
-| 🏅 **Statistella – Data Analytics Competition** | B.A.S.H 8.0 · Unstop, Jan 2026 |
+| ⭐ **HackerRank 6-Star Python** | [→ view badge](https://www.hackerrank.com/) |
+| 🧠 **LeetCode 200+ Problems Solved** | [→ view profile](https://leetcode.com/u/sri_07_006/) |
+| ✅ **LinkedIn Skill Assessment Passed** | MongoDB · Microsoft PowerPoint |
 
 </div>
 
@@ -49,33 +53,35 @@ class JayasriT:
 
 ## 🚀 Featured Projects
 
-### 🌟 [Sentiment Analysis & Word Cloud Visualiser](https://github.com/jayasri21072006/sentiment_analysis_with_wordcloud) — *SIH 2025 College-Level Selected*
-> NLP web app classifying stakeholder comments (Positive / Neutral / Negative) with confidence scores, auto-summaries & dynamic word-cloud visualisations.
+### 🌟 Sentiment Analysis & Word Cloud Visualiser — *SIH 2025 College-Level Selected*
 
-[![Live App](https://img.shields.io/badge/🔴%20Live%20Demo-Streamlit-FF4B4B?style=flat-square)](https://sentiment-analysis-with-wordcloud.streamlit.app/)
+> NLP web app classifying stakeholder comments (Pos / Neu / Neg) with confidence scores, auto-summaries & dynamic word-cloud visualisations.
+
+[![→ GitHub](https://img.shields.io/badge/→%20GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/jayasri21072006/sentiment_analysis_with_wordcloud)
+[![→ Live Demo](https://img.shields.io/badge/→%20Live%20Demo-streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://sentiment-analysis-with-wordcloud.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-WordCloud-green?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-WordCloud-22C55E?style=flat-square)
 
 ---
 
-### 💹 [ML-Based Cryptocurrency Liquidity Predictor](https://github.com/jayasri21072006/crypto-liquidity-predictor)
-> End-to-end ML pipeline (EDA → RandomForest → Joblib) with HLD/LLD documentation and live Streamlit UI predicting crypto liquidity.
+### 💹 ML-Based Cryptocurrency Liquidity Predictor
 
-[![Live App](https://img.shields.io/badge/🔴%20Live%20Demo-Streamlit-FF4B4B?style=flat-square)](https://crypto-liquidity-predictor.streamlit.app/)
+> End-to-end ML pipeline (EDA → RandomForest → Joblib) with HLD/LLD docs and live Streamlit UI predicting crypto liquidity.
+
+[![→ GitHub](https://img.shields.io/badge/→%20GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/jayasri21072006/crypto-liquidity-predictor)
+[![→ Live Demo](https://img.shields.io/badge/→%20Live%20Demo-streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://crypto-liquidity-predictor.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
-### 🎥 [AI Examination Monitoring System](https://github.com/jayasri21072006/examination-monitoring-system)
-> Real-time YOLOv8 proctoring system detecting suspicious webcam behaviour with snapshot capture and incident reporting.
+### 🎥 AI Examination Monitoring System
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black)
+> Real-time YOLOv8 proctoring detecting suspicious webcam behaviour with snapshot capture & incident reporting.
+
+[![→ GitHub](https://img.shields.io/badge/→%20GitHub-repo-181717?style=flat-square&logo=github)](https://github.com/jayasri21072006/examination-monitoring-system)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-MediaPipe-orange?style=flat-square)
 
 ---
 
@@ -125,7 +131,7 @@ class JayasriT:
 
 | 🏢 Company | 🎯 Role | 📅 Period | 🔑 Highlights |
 |---|---|---|---|
-| **Saiket Systems** | ML Intern | Jun–Jul 2025 | Supervised ML models, feature engineering, real-world benchmarking |
+| **Saiket Systems** | ML Intern | Jun–Jul 2025 | Supervised ML models, feature engineering, benchmarking |
 | **Cognifyz Technologies** | Python Intern | Feb–Mar 2025 | Python automation, EDA workflows, structured insights |
 | **Askan Technologies** | Node.js Intern | Dec 2025 | RESTful APIs, MongoDB integration, Postman testing |
 
@@ -135,8 +141,8 @@ class JayasriT:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayasri21072006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasri21072006&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayasri21072006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasri21072006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -146,51 +152,60 @@ class JayasriT:
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayasri21072006&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+
+</div>
+
 ---
 
 ## 🎓 Certifications
 
 <details>
-<summary><b>🤖 AI / Gen AI / Agents</b> — click to expand</summary>
+<summary><b>🤖 AI / Gen AI / Agents</b> &nbsp;— click to expand</summary>
+<br/>
 
-| 📜 Certificate | 🏛️ Issuer | 📅 Date | 🔗 |
+| 📜 Certificate | 🏛️ Issuer | 📅 | 🔗 |
 |---|---|---|---|
-| **AI Agents Fundamentals** | Hugging Face | Jun 2026 | [Verify](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/Jayasri2006/2026-06-10.png) |
-| **Introduction to GAN** | Simplilearn | Jun 2026 | [Verify](https://simpli-web.app.link/e/NiuKNPL3B3b) |
-| **Building with the Claude API** | Anthropic | May 2026 | [Verify](https://verify.skilljar.com/c/obo84oerjrce) |
-| **Model Context Protocol: Advanced Topics** | Anthropic | Apr 2026 | [Verify](https://verify.skilljar.com/c/ayog8vfnscmv) |
-| **Generative AI: Elevate Your Data Science Career** | IBM / Coursera | Dec 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/T9ZQO0EV81S4) |
+| **AI Agents Fundamentals** | Hugging Face | Jun 2026 | [→ verify](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/Jayasri2006/2026-06-10.png) |
+| **Introduction to GAN** | Simplilearn | Jun 2026 | [→ verify](https://simpli-web.app.link/e/NiuKNPL3B3b) |
+| **Building with the Claude API** | Anthropic | May 2026 | [→ verify](https://verify.skilljar.com/c/obo84oerjrce) |
+| **Model Context Protocol: Advanced Topics** | Anthropic | Apr 2026 | [→ verify](https://verify.skilljar.com/c/ayog8vfnscmv) |
+| **Generative AI: Elevate Your Data Science Career** | IBM / Coursera | Dec 2025 | [→ verify](https://www.coursera.org/account/accomplishments/verify/T9ZQO0EV81S4) |
 | **Data Science with Generative AI** | PW Skills | 2025 | — |
 | **Generative AI for Business Leaders** | LinkedIn Learning | 2025 | — |
 
 </details>
 
 <details>
-<summary><b>📊 Data Analytics / ML</b> — click to expand</summary>
+<summary><b>📊 Data Analytics / ML</b> &nbsp;— click to expand</summary>
+<br/>
 
-| 📜 Certificate | 🏛️ Issuer | 📅 Date | 🔗 |
+| 📜 Certificate | 🏛️ Issuer | 📅 | 🔗 |
 |---|---|---|---|
-| **Google Data Analytics Professional Certificate** | Coursera | Aug 2025 | [Verify](https://www.credly.com/badges/5f41ea40-fcfe-4e97-8d71-517ce7d05296/linked_in_profile) |
-| **Google Data Analytics Capstone: Case Study** | Coursera | Aug 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/AMGW7WZ3OOT6) |
+| **Google Data Analytics Professional Certificate** | Coursera | Aug 2025 | [→ verify](https://www.credly.com/badges/5f41ea40-fcfe-4e97-8d71-517ce7d05296/linked_in_profile) |
+| **Google Data Analytics Capstone** | Coursera | Aug 2025 | [→ verify](https://www.coursera.org/account/accomplishments/verify/AMGW7WZ3OOT6) |
 | **Supervised Learning: Regression & Classification** | Coursera (Stanford) | 2025 | — |
-| **Data Analysis with R Programming** | Coursera | Aug 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/N23SITOIM3RT) |
-| **Process Data from Dirty to Clean** | Coursera | Aug 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/BPEV0YBSWPFZ) |
-| **Ask Questions to Make Data-Driven Decisions** | Coursera | Aug 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/FILX20YJ3CJX) |
-| **Tools for Data Science** | Coursera | Dec 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/WZH53NWKBTI1) |
+| **Data Analysis with R Programming** | Coursera | Aug 2025 | [→ verify](https://www.coursera.org/account/accomplishments/verify/N23SITOIM3RT) |
+| **Process Data from Dirty to Clean** | Coursera | Aug 2025 | [→ verify](https://www.coursera.org/account/accomplishments/verify/BPEV0YBSWPFZ) |
+| **Ask Questions to Make Data-Driven Decisions** | Coursera | Aug 2025 | [→ verify](https://www.coursera.org/account/accomplishments/verify/FILX20YJ3CJX) |
+| **Tools for Data Science** | Coursera | Dec 2025 | [→ verify](https://www.coursera.org/account/accomplishments/verify/WZH53NWKBTI1) |
 | **Tata – GenAI Powered Data Analytics Simulation** | Forage | 2025 | — |
 
 </details>
 
 <details>
-<summary><b>💻 Programming / Databases / Tools</b> — click to expand</summary>
+<summary><b>💻 Programming / Databases / Tools</b> &nbsp;— click to expand</summary>
+<br/>
 
-| 📜 Certificate | 🏛️ Issuer | 📅 Date | 🔗 |
+| 📜 Certificate | 🏛️ Issuer | 📅 | 🔗 |
 |---|---|---|---|
 | **Advanced SQL** | CodeChef AI for India / GUVI | 2025 | — |
 | **SQL (Basic)** | HackerRank | 2025 | — |
 | **MongoDB** | MongoDB University | 2025 | — |
 | **JavaScript (Basics)** | HackerRank | 2025 | — |
-| **Accelerate Your Job Search with AI** | Google / Coursera | Aug 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/EB3NHX9FMPVP) |
+| **Accelerate Your Job Search with AI** | Google / Coursera | Aug 2025 | [→ verify](https://www.coursera.org/account/accomplishments/verify/EB3NHX9FMPVP) |
 
 </details>
 
@@ -198,8 +213,8 @@ class JayasriT:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=120&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,50:A78BFA,100:6C63FF&height=120&section=footer&animation=twinkling" alt="footer"/>
 
-⭐ *If you find my work useful, consider starring a repo!* ⭐
+*⭐ If you find my work useful, consider starring a repo! ⭐*
 
 </div>
