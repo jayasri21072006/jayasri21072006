@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&animation=twinkling&fontColor=ffffff" alt="header"/>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+I'm+Jayasri+T;AI+%2F+ML+%C2%B7+Gen+AI+%C2%B7+Computer+Vision" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=99999&color=C084FC&center=true&vCenter=true&width=500&height=70&lines=Hey+%F0%9F%91%8B+I'm+Jayasri+T" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +30,7 @@
 
 ↗ &nbsp;I love turning messy raw data into clean, deployable, real-world intelligence
 
-↗ &nbsp;Fun fact — my model accuracy and my CGPA are both above 9 🎯
+`ML Pipelines` &nbsp;·&nbsp; `Computer Vision` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `RAG` &nbsp;·&nbsp; `Gen AI` &nbsp;·&nbsp; `Multi-Agent Systems`
 
 ---
 
