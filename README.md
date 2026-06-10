@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&animation=twinkling&fontColor=ffffff" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&height=80&lines=Hey+%F0%9F%91%8B+I'm+Jayasri+T;AI+%2F+ML+%C2%B7+Gen+AI+%C2%B7+Computer+Vision;One+day%2C+reality+will+be+better+than+my+dreams+%F0%9F%92%9C" alt="Typing SVG" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+I'm+Jayasri+T;AI+%2F+ML+%C2%B7+Gen+AI+%C2%B7+Computer+Vision" alt="Typing SVG" />
+</h1>
 
 <br/>
 
@@ -36,16 +38,10 @@
 
 <div align="center">
 
-<table><tr><td align="center" style="background:#1a1040;border-radius:12px;padding:20px">
-
-&nbsp;&nbsp;&nbsp;💜 &nbsp;&nbsp;&nbsp;
-
-*"One day, reality will be better than my dreams —*
-*and until then, I'll keep building."*
-
-&nbsp;&nbsp;&nbsp;**— Jayasri T**&nbsp;&nbsp;&nbsp;
-
-</td></tr></table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,100:302B63&height=120&text=%22One%20day%2C%20reality%20will%20be%20better%20than%20my%20dreams%20%E2%80%94%22&fontAlign=50&fontAlignY=40&fontSize=16&fontColor=C084FC&desc=and%20until%20then%2C%20I%27ll%20keep%20building.%20%E2%80%94%20Jayasri%20T&descAlign=50&descAlignY=70&descSize=13&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,100:302B63&height=120&text=%22One%20day%2C%20reality%20will%20be%20better%20than%20my%20dreams%20%E2%80%94%22&fontAlign=50&fontAlignY=40&fontSize=16&fontColor=C084FC&desc=and%20until%20then%2C%20I%27ll%20keep%20building.%20%E2%80%94%20Jayasri%20T&descAlign=50&descAlignY=70&descSize=13&animation=fadeIn" alt="quote banner"/>
+</picture>
 
 </div>
 
@@ -59,6 +55,7 @@
 |---|---|---|
 | ⭐ | **HackerRank 6-Star Python** | [↗ view badge](https://www.hackerrank.com/) |
 | 🎓 | **CGPA 9.35 / 10** | Top performer · 5th Sem · AIHT Chennai |
+| 📊 | **Google Data Analytics Professional Certificate** | [↗ verify](https://www.credly.com/badges/5f41ea40-fcfe-4e97-8d71-517ce7d05296/linked_in_profile) · Coursera · Aug 2025 |
 | 🏅 | **Statistella – Data Analytics Competition** | B.A.S.H 8.0 · Unstop · Jan 2026 |
 | 🥇 | **SIH 2025 – College Level Selected** | Sentiment Analysis & Word Cloud Visualiser |
 | 🧠 | **LeetCode 200+ Solved** | [↗ view profile](https://leetcode.com/u/sri_07_006/) |
