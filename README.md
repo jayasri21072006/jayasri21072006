@@ -30,7 +30,7 @@
 
 ↗ &nbsp;I love turning messy raw data into clean, deployable, real-world intelligence
 
-`ML Pipelines` &nbsp;·&nbsp; `Computer Vision` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `RAG` &nbsp;·&nbsp; `Gen AI` &nbsp;·&nbsp; `Multi-Agent Systems`
+↗ &nbsp;I build across ML Pipelines · Computer Vision · LLMs · RAG · Gen AI · Multi-Agent Systems
 
 ---
 
