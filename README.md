@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&animation=twinkling&fontColor=ffffff" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=80&lines=Hey+%F0%9F%91%8B+I'm+Jayasri+T;AI+%2F+ML+Engineer+%C2%B7+Gen+AI+Developer;I+turn+data+into+deployable+intelligence+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&height=80&lines=Hey+%F0%9F%91%8B+I'm+Jayasri+T;AI+%2F+ML+%C2%B7+Gen+AI+%C2%B7+Computer+Vision;One+day%2C+reality+will+be+better+than+my+dreams+%F0%9F%92%9C" alt="Typing SVG" />
 
 <br/>
 
@@ -34,11 +34,20 @@
 
 ---
 
-> 💬 *"I don't just study AI — I build things with it, break them, fix them, and deploy them."*
->
-> ⚡ *My debugging process: Google → Stack Overflow → cry → fix it → pretend I knew all along.*
->
-> 🚀 *If you're looking for someone who ships real projects, not just slides — hi, that's me.*
+<div align="center">
+
+<table><tr><td align="center" style="background:#1a1040;border-radius:12px;padding:20px">
+
+&nbsp;&nbsp;&nbsp;💜 &nbsp;&nbsp;&nbsp;
+
+*"One day, reality will be better than my dreams —*
+*and until then, I'll keep building."*
+
+&nbsp;&nbsp;&nbsp;**— Jayasri T**&nbsp;&nbsp;&nbsp;
+
+</td></tr></table>
+
+</div>
 
 ---
 
