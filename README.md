@@ -24,11 +24,11 @@
 
 • Based in Chengalpet, Tamil Nadu 🇮🇳
 
-• Currently building an **AI Operating System** — multi-agent automation platform using n8n & Gemini API
+• Passionate about **ML pipelines · Computer Vision · LLMs · RAG · Gen AI · Multi-Agent Systems**
 
-• Passionate about **ML pipelines · Computer Vision · LLMs · RAG · Gen AI**
+• I turn messy raw data into clean, deployable, real-world intelligence
 
-• I love turning messy raw data into clean, deployable, real-world intelligence
+• Building production-grade AI systems with shipped projects & real impact
 
 
 <div align="center">
