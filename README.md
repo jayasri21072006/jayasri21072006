@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-↗ &nbsp;Final year B.Tech in **AI & Data Science** · Anand Institute of Higher Technology, Chennai · CGPA **9.35 / 10**
+↗ &nbsp;Final year B.Tech in **AI & Data Science** · Anand Institute of Higher Technology, Chennai · CGPA **9.43 / 10**
 
 ↗ &nbsp;Based in Chengalpet, Tamil Nadu 🇮🇳
 
@@ -54,45 +54,21 @@
 
 <div align="center">
 
-| &nbsp; | 🎖️ Achievement | 📋 Details |
-|---|---|---|
-| ⭐ | **HackerRank 6-Star Python** | [↗ view badge](https://www.hackerrank.com/) |
-| 🎓 | **CGPA 9.35 / 10** | Top performer · 5th Sem · AIHT Chennai |
-| 📊 | **Google Data Analytics Professional Certificate** | [↗ verify](https://www.credly.com/badges/5f41ea40-fcfe-4e97-8d71-517ce7d05296/linked_in_profile) · Coursera · Aug 2025 |
-| 🏅 | **Statistella – Data Analytics Competition** | B.A.S.H 8.0 · Unstop · Jan 2026 |
-| 🥇 | **SIH 2025 – College Level Selected** | Sentiment Analysis & Word Cloud Visualiser |
-| 🧠 | **LeetCode 200+ Solved** | [↗ view profile](https://leetcode.com/u/sri_07_006/) |
-| ✅ | **LinkedIn Skill Assessment Passed** | MongoDB · Microsoft PowerPoint |
+| &nbsp; | 🎖️ Achievement |
+|---|---|
+| ⭐ | **HackerRank 6-Star Python** |
+| 🎓 | **CGPA 9.43 / 10** (6 Semesters) |
+| 📊 | **Google Data Analytics Professional Certificate** |
+| 🏅 | **Statistella – Data Analytics Competition** |
+| 🥇 | **SIH 2025 – College Level Selected** |
+| 🧠 | **LeetCode 200+ Solved** |
+| ✅ | **LinkedIn Skill Assessment Passed** |
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-
-### 🌟 Sentiment Analysis & Word Cloud Visualiser — *SIH 2025 College-Level Selected*
-
-> NLP web app classifying stakeholder comments (Pos / Neu / Neg) with confidence scores, auto-summaries & dynamic word-cloud visualisations.
-
-[![↗ GitHub](https://img.shields.io/badge/%E2%86%97%20GitHub-repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jayasri21072006/sentiment_analysis_with_wordcloud)
-[![↗ Live Demo](https://img.shields.io/badge/%E2%86%97%20Live%20Demo-streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://sentiment-analysis-with-wordcloud.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-WordCloud-22C55E?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-### 💹 ML-Based Cryptocurrency Liquidity Predictor
-
-> End-to-end ML pipeline — EDA → RandomForest → Joblib · HLD/LLD docs · live Streamlit UI predicting crypto liquidity.
-
-[![↗ GitHub](https://img.shields.io/badge/%E2%86%97%20GitHub-repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jayasri21072006/crypto-liquidity-predictor)
-[![↗ Live Demo](https://img.shields.io/badge/%E2%86%97%20Live%20Demo-streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://crypto-liquidity-predictor.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
----
 
 ### 🎥 AI Examination Monitoring System
 
@@ -102,6 +78,39 @@
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
+
+---
+
+### 💹 ML-Based Cryptocurrency Liquidity Predictor
+
+> End-to-end ML pipeline — EDA → RandomForest → Joblib · HLD/LLD docs · Streamlit UI predicting crypto liquidity.
+
+[![↗ GitHub](https://img.shields.io/badge/%E2%86%97%20GitHub-repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jayasri21072006/crypto-liquidity-predictor)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
+### 🌟 Sentiment Analysis & Word Cloud Visualiser — *SIH 2025 College-Level Selected*
+
+> NLP web app classifying stakeholder comments (Pos / Neu / Neg) with confidence scores, auto-summaries & dynamic word-cloud visualisations.
+
+[![↗ GitHub](https://img.shields.io/badge/%E2%86%97%20GitHub-repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jayasri21072006/sentiment_analysis_with_wordcloud)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-WordCloud-22C55E?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+### 🫁 Chest X-ray Pneumonia Detection
+
+> Deep learning CNN using PyTorch — 94.88% accuracy on medical imaging · Flask backend · HTML frontend dashboard.
+
+[![↗ GitHub](https://img.shields.io/badge/%E2%86%97%20GitHub-repo-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jayasri21072006/chest-xray-pneumonia-detection)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Accuracy](https://img.shields.io/badge/Accuracy-94.88%25-10B981?style=flat-square)
 
 ---
 
@@ -186,15 +195,15 @@
 <summary><b>🤖 AI / Gen AI / Agents</b> &nbsp;— click to expand</summary>
 <br/>
 
-| 📜 Certificate | 🏛️ Issuer | 📅 | 🔗 |
-|---|---|---|---|
-| **AI Agents Fundamentals** | Hugging Face | Jun 2026 | [↗ verify](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/Jayasri2006/2026-06-10.png) |
-| **Introduction to GAN** | Simplilearn | Jun 2026 | [↗ verify](https://simpli-web.app.link/e/NiuKNPL3B3b) |
-| **Building with the Claude API** | Anthropic | May 2026 | [↗ verify](https://verify.skilljar.com/c/obo84oerjrce) |
-| **Model Context Protocol: Advanced Topics** | Anthropic | Apr 2026 | [↗ verify](https://verify.skilljar.com/c/ayog8vfnscmv) |
-| **Generative AI: Elevate Your Data Science Career** | IBM / Coursera | Dec 2025 | [↗ verify](https://www.coursera.org/account/accomplishments/verify/T9ZQO0EV81S4) |
-| **Data Science with Generative AI** | PW Skills | 2025 | — |
-| **Generative AI for Business Leaders** | LinkedIn Learning | 2025 | — |
+| 📜 Certificate | 🏛️ Issuer | 📅 |
+|---|---|---|
+| **AI Agents Fundamentals** | Hugging Face | Jun 2026 |
+| **Introduction to GAN** | Simplilearn | Jun 2026 |
+| **Building with the Claude API** | Anthropic | May 2026 |
+| **Model Context Protocol: Advanced Topics** | Anthropic | Apr 2026 |
+| **Generative AI: Elevate Your Data Science Career** | IBM / Coursera | Dec 2025 |
+| **Data Science with Generative AI** | PW Skills | 2025 |
+| **Generative AI for Business Leaders** | LinkedIn Learning | 2025 |
 
 </details>
 
@@ -202,16 +211,16 @@
 <summary><b>📊 Data Analytics / ML</b> &nbsp;— click to expand</summary>
 <br/>
 
-| 📜 Certificate | 🏛️ Issuer | 📅 | 🔗 |
-|---|---|---|---|
-| **Google Data Analytics Professional Certificate** | Coursera | Aug 2025 | [↗ verify](https://www.credly.com/badges/5f41ea40-fcfe-4e97-8d71-517ce7d05296/linked_in_profile) |
-| **Google Data Analytics Capstone** | Coursera | Aug 2025 | [↗ verify](https://www.coursera.org/account/accomplishments/verify/AMGW7WZ3OOT6) |
-| **Supervised Learning: Regression & Classification** | Coursera (Stanford) | 2025 | — |
-| **Data Analysis with R Programming** | Coursera | Aug 2025 | [↗ verify](https://www.coursera.org/account/accomplishments/verify/N23SITOIM3RT) |
-| **Process Data from Dirty to Clean** | Coursera | Aug 2025 | [↗ verify](https://www.coursera.org/account/accomplishments/verify/BPEV0YBSWPFZ) |
-| **Ask Questions to Make Data-Driven Decisions** | Coursera | Aug 2025 | [↗ verify](https://www.coursera.org/account/accomplishments/verify/FILX20YJ3CJX) |
-| **Tools for Data Science** | Coursera | Dec 2025 | [↗ verify](https://www.coursera.org/account/accomplishments/verify/WZH53NWKBTI1) |
-| **Tata – GenAI Powered Data Analytics Simulation** | Forage | 2025 | — |
+| 📜 Certificate | 🏛️ Issuer | 📅 |
+|---|---|---|
+| **Google Data Analytics Professional Certificate** | Coursera | Aug 2025 |
+| **Google Data Analytics Capstone** | Coursera | Aug 2025 |
+| **Supervised Learning: Regression & Classification** | Coursera (Stanford) | 2025 |
+| **Data Analysis with R Programming** | Coursera | Aug 2025 |
+| **Process Data from Dirty to Clean** | Coursera | Aug 2025 |
+| **Ask Questions to Make Data-Driven Decisions** | Coursera | Aug 2025 |
+| **Tools for Data Science** | Coursera | Dec 2025 |
+| **Tata – GenAI Powered Data Analytics Simulation** | Forage | 2025 |
 
 </details>
 
@@ -219,13 +228,13 @@
 <summary><b>💻 Programming / Databases / Tools</b> &nbsp;— click to expand</summary>
 <br/>
 
-| 📜 Certificate | 🏛️ Issuer | 📅 | 🔗 |
-|---|---|---|---|
-| **Advanced SQL** | CodeChef AI for India / GUVI | 2025 | — |
-| **SQL (Basic)** | HackerRank | 2025 | — |
-| **MongoDB** | MongoDB University | 2025 | — |
-| **JavaScript (Basics)** | HackerRank | 2025 | — |
-| **Accelerate Your Job Search with AI** | Google / Coursera | Aug 2025 | [↗ verify](https://www.coursera.org/account/accomplishments/verify/EB3NHX9FMPVP) |
+| 📜 Certificate | 🏛️ Issuer | 📅 |
+|---|---|---|
+| **Advanced SQL** | CodeChef AI for India / GUVI | 2025 |
+| **SQL (Basic)** | HackerRank | 2025 |
+| **MongoDB** | MongoDB University | 2025 |
+| **JavaScript (Basics)** | HackerRank | 2025 |
+| **Accelerate Your Job Search with AI** | Google / Coursera | Aug 2025 |
 
 </details>
 
