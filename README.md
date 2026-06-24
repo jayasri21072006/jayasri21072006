@@ -60,7 +60,7 @@
 | 🎓 | **CGPA 9.43 / 10** (6 Semesters) |
 | 📊 | **Google Data Analytics Professional Certificate** |
 | 🏅 | **Statistella – Data Analytics Competition** |
-| 🥇 | **SIH 2025 – College Level Selected** |
+| 🥇 | **SIH 2024 & 2025 – College Level Selected** |
 | 🧠 | **LeetCode 200+ Solved** |
 | ✅ | **LinkedIn Skill Assessment Passed** |
 
