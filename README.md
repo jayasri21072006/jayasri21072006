@@ -58,11 +58,11 @@
 |---|---|
 | ⭐ | **HackerRank 6-Star Python** |
 | 🎓 | **CGPA 9.43 / 10** (6 Semesters) |
-| 📊 | **Google Data Analytics Professional Certificate** |
-| 🏅 | **Statistella – Data Analytics Competition** |
-| 🥇 | **SIH 2024 & 2025 – College Level Selected** |
 | 🧠 | **LeetCode 200+ Solved** |
-| ✅ | **LinkedIn Skill Assessment Passed** |
+| 🎯 | **FlipKart Grid 7.0 – Qualified for Round 2** |
+| ✅ | **LinkedIn Skill Assessment Passed** – MongoDB · PowerPoint |
+| 🥇 | **SIH 2024 & 2025 – College Level Selected** |
+| 📊 | **Google Data Analytics Professional Certificate** |
 
 </div>
 
