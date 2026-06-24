@@ -20,15 +20,15 @@
 
 ## 👩‍💻 About Me
 
-↗ &nbsp;Final year B.Tech in **AI & Data Science** · Anand Institute of Higher Technology, Chennai · CGPA **9.43 / 10**
+• Final year B.Tech in **AI & Data Science** · Anand Institute of Higher Technology, Chennai · CGPA **9.43 / 10**
 
-↗ &nbsp;Based in Chengalpet, Tamil Nadu 🇮🇳
+• Based in Chengalpet, Tamil Nadu 🇮🇳
 
-↗ &nbsp;Currently building an **AI Operating System** — multi-agent automation platform using n8n & Gemini API
+• Currently building an **AI Operating System** — multi-agent automation platform using n8n & Gemini API
 
-↗ &nbsp;Passionate about **ML pipelines · Computer Vision · LLMs · RAG · Gen AI**
+• Passionate about **ML pipelines · Computer Vision · LLMs · RAG · Gen AI**
 
-↗ &nbsp;I love turning messy raw data into clean, deployable, real-world intelligence
+• I love turning messy raw data into clean, deployable, real-world intelligence
 
 
 <div align="center">
@@ -160,7 +160,7 @@
 
 | 🏢 Company | 🎯 Role | 📅 Period | 🔑 Highlights |
 |---|---|---|---|
-| **Saiket Systems** | ML Intern | Jun–Jul 2025 | Supervised ML models · feature engineering · benchmarking |
+| **SaiKet Systems** | ML Intern | Jun–Jul 2025 | Supervised ML models · feature engineering · benchmarking |
 | **Cognifyz Technologies** | Python Intern | Feb–Mar 2025 | Python automation · EDA workflows · structured insights |
 | **Askan Technologies** | Node.js Intern | Dec 2025 | RESTful APIs · MongoDB integration · Postman testing |
 
@@ -170,7 +170,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayasri21072006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayasri21072006&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayasri21072006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
@@ -245,7 +245,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer&animation=twinkling" alt="footer"/>
 
-*↗ Open to internships, collaborations & full-time AI/ML roles*
+*Open to internships, collaborations & full-time AI/ML roles*
 
 *⭐ If my work helped you, a star means the world!*
 
